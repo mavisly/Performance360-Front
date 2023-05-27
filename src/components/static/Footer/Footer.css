@@ -1,0 +1,10 @@
+.text{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-dark{
+    font-weight: 500;
+    text-decoration: none;
+    color: black
+}
